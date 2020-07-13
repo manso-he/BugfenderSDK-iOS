@@ -1,3 +1,6 @@
+# 1.9.3
+Test
+
 # 1.9.2
 - Feature: added a new overrideDeviceName(String) that allows to customize the name of the device.
 
